@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+
+.blank-cell {
+  width: 40px;
+  height: 40px;
+}
+
